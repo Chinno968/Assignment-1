@@ -5,11 +5,11 @@ body{
 
 .top-banner1{
     display: flex;
-    max-width: 100%;
+    
     
 }
 .top-banner1 img{
-    float:right;
+    
     width: 40%;
     margin:  40px;
     border-radius: 15px;
@@ -95,7 +95,27 @@ h2{
 
 
 
-       
+
+
+h3{
+    font-size: 30px;
+}
+
+
+.top-banner3{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.Global{
+    width: 50%;
+    padding-top: 80px;
+}
+
+.Global img{
+    width: 60%;
+    border-radius: 20px;
+}
 
 
 
