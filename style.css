@@ -7,6 +7,7 @@ body{
     display: flex;
     
     
+    
 }
 .top-banner1 img{
     
@@ -45,6 +46,7 @@ h6{
     font-weight: bolder;
     padding: 10px 20px;
     border-radius: 10px;
+    text-decoration: none;
 }
 
 
@@ -104,18 +106,40 @@ h3{
 
 .top-banner3{
     display: flex;
-    margin-bottom: 100px;
+    
 }
 
 .Global{
     width: 50%;
-    padding-top: 80px;
+    padding-top: 70px;
+    margin-left: 50px;
 }
 
 .Global img{
     width: 60%;
     border-radius: 20px;
+    
 }
 
+
+.top-banner4{
+    display: flex;
+    
+}
+
+Footer{
+    background-color: black;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-style: italic;
+
+}
+h4{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
 
 
